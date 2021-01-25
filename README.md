@@ -1,7 +1,6 @@
 # CommonSortAlgorithm
 各种常见的排序算法！
 
-添加test
+1、**插入排序**（Insertion Sort）
 
-
-git test 01
+2、**冒泡排序**（Bubble Sort）
